@@ -1,0 +1,89 @@
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.deps.json
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.AssemblyReference.cache
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfoInputs.cache
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfo.cs
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CopyComplete
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.deps.json
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.pdb
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.AssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CopyComplete
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.deps.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.AssemblyReference.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfoInputs.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfo.cs
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CopyComplete
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.deps.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.AssemblyReference.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfoInputs.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfo.cs
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CopyComplete
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.runtimeconfig.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CopyComplete
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll

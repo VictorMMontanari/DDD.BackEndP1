@@ -1,0 +1,465 @@
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Application.Api.props
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Application.Api.props
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Application.Api.props
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+C:\Users\Aula\Downloads\DDD.Universidade-main\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Humanizer.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Application.Api.props
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Application.Api.props
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Application.Api.props
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+E:\Meus Documentos\Área de Trabalho\VS CODE TESTE\Projetos\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Application.Api.props
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Application.Api.props
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Application.Api.props
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Application.Api.props
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Application.Api.props
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Application.Api.props
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Estudo Faculdade\Navarro DDD\APINavarroBack\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll
