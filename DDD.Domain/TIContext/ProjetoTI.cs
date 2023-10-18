@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,6 +9,7 @@ namespace DDD.Domain.TI
 {
     public class ProjetoTI
     {
+        [Key]
         public int ProjetoId { get; set; }
 
         public int GerenteId { get; set; }
