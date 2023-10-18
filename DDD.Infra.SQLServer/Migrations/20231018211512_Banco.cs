@@ -157,14 +157,15 @@ namespace DDD.Infra.SQLServer.Migrations
                 name: "ProjetosTI",
                 columns: table => new
                 {
+                    ProjetoId = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     GerenteId = table.Column<int>(type: "int", nullable: false),
                     ProgramadorId = table.Column<int>(type: "int", nullable: false),
-                    ProjetoId = table.Column<int>(type: "int", nullable: false),
                     DataEntrega = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_ProjetosTI", x => new { x.GerenteId, x.ProgramadorId });
+                    table.PrimaryKey("PK_ProjetosTI", x => x.ProjetoId);
                     table.ForeignKey(
                         name: "FK_ProjetosTI_GerenteTI_GerenteId",
                         column: x => x.GerenteId,
@@ -193,6 +194,11 @@ namespace DDD.Infra.SQLServer.Migrations
                 name: "IX_Projeto_PesquisadorUserId",
                 table: "Projeto",
                 column: "PesquisadorUserId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_ProjetosTI_GerenteId",
+                table: "ProjetosTI",
+                column: "GerenteId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_ProjetosTI_ProgramadorId",

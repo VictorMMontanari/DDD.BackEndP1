@@ -107,19 +107,24 @@ namespace DDD.Infra.SQLServer.Migrations
 
             modelBuilder.Entity("DDD.Domain.TI.ProjetoTI", b =>
                 {
+                    b.Property<int>("ProjetoId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProjetoId"));
+
+                    b.Property<DateTime>("DataEntrega")
+                        .HasColumnType("datetime2");
+
                     b.Property<int>("GerenteId")
                         .HasColumnType("int");
 
                     b.Property<int>("ProgramadorId")
                         .HasColumnType("int");
 
-                    b.Property<DateTime>("DataEntrega")
-                        .HasColumnType("datetime2");
+                    b.HasKey("ProjetoId");
 
-                    b.Property<int>("ProjetoId")
-                        .HasColumnType("int");
-
-                    b.HasKey("GerenteId", "ProgramadorId");
+                    b.HasIndex("GerenteId");
 
                     b.HasIndex("ProgramadorId");
 
